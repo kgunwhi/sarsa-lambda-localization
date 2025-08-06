@@ -56,8 +56,9 @@ Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
-Install required packages manually:
-```bash
-pip install torch torchvision opencv-python gym pygame matplotlib numpy
-```
+
+
+## Additional Resources
+- [Master’s Thesis: “A Reinforcement Learning Approach Using State-Action-Reward-State-Action with Eligibility Traces for Object Localization via Scale-Invariant Feature Transform in a Static Environment”](https://escholarship.org/uc/item/44n4r4hr)
+
 
